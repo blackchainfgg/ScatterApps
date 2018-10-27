@@ -1,5 +1,13 @@
 {
   "EOSIO":[
+      {
+      "applink":"farmeos.com",
+      "name":"FarmEOS",
+      "type":"Game",
+      "description":"the world's first DApp gaming eco-platform that combines game mining, Bancor and price dividend weight.",
+      "url":"https://farmeos.com/",
+      "hasimage":"1"
+    },
     {
       "applink":"app.nebulaprotocol.com",
       "name":"Nebula",
